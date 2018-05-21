@@ -10,7 +10,7 @@ My name is Charlie DeLorey and I am a junior at Tufts University, studying compu
 
 
 
-[Resume](https://drive.google.com/file/d/1DEQUdswVAjUM9VL4S4gA7ow64MHTsCY1/view?usp=sharing) 
+![Resume](https://drive.google.com/file/d/1DEQUdswVAjUM9VL4S4gA7ow64MHTsCY1/view?usp=sharing) 
 
 
 # Projects
