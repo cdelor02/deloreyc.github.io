@@ -6,11 +6,14 @@ My name is Charlie DeLorey and I am a junior at Tufts University, studying compu
 
 # Education and Research Experience
 
+**Relevant Courses**
+- **COMP 40:** Machine Structure and Assembly-Language Programming (covering topics such as C programming language, computer architecture, assembly language, and caches)
+- **COMP 15:** Data Structures (covering topics such as C++ programming language, polymorphism, sorting algorithms, and data structures including stacks, queues, graphs, lists, and tries) 
+- **BIO 13:** Cells and Organisms (covering topics such as cell biology, biochemistry, photosynthesis, cellular respiration, and introductory genetics)
+- **BME 50:** Intro to Biomedical Engineering ()
+- **BME 62:** Molecular Biotechnology ()
 
-
-
-
-[Resume](https://drive.google.com/file/d/1DEQUdswVAjUM9VL4S4gA7ow64MHTsCY1/view?usp=sharing){:target="_blank"} 
+[Resume](https://drive.google.com/file/d/1DEQUdswVAjUM9VL4S4gA7ow64MHTsCY1/view?usp=sharing)
 
 
 # Projects
