@@ -20,6 +20,9 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. I added this! Look at me go!
+
+**- Is this a bulleted list?**
 
 **Bold** and _Italic_ and `Code` text
 
