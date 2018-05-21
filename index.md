@@ -1,6 +1,8 @@
 
-My name is Charlie DeLorey and I am a junior at Tufts University, studying computer science. 
 
+# My name is Charlie DeLorey and I am a junior at Tufts University, studying computer science. 
+
+### Education and Research Experience
 
 ### Personal Projects
 
@@ -10,6 +12,7 @@ Syntax highlighted code block
 ```
 # Header 1
 ## Header 2
+## Header 2.5
 ### Header 3
 
 - Bulleted
